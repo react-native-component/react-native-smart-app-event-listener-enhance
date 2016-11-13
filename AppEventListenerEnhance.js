@@ -18,7 +18,6 @@ export default AppEventListenerEnhance = (ComposedComponent) => {
                 [ _key ]: listeners,
                 } = this
             listeners && listeners.forEach((listener) => {
-                console.log(`listener.remove`)
                 listener.remove()
             })
             this[ _key ] = null
