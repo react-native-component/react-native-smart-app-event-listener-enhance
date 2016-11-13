@@ -1,6 +1,6 @@
 {
   "name": "react-native-smart-app-event-listener-enhance",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A AppEventListenerEnhance for React Native app which provides addEventListener functions that are safely cleaned up when the component unmounts",
   "main": "AppEventListenerEnhance.js",
   "scripts": {
