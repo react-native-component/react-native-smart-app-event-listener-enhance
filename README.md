@@ -27,7 +27,7 @@ import React, {
     Component,
 } from 'react'
 
-import AppEventListenerEnhance from '../../react-native-smart-app-event-listener-enhance'
+import AppEventListenerEnhance from 'react-native-smart-app-event-listener-enhance'
 
 class AppEventListenerEnhanceDemo extends Component {
 
